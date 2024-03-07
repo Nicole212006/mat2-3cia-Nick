@@ -16,8 +16,9 @@ body {
 }
 .conteudo-pincipal{
   display: flex;
-  flex-direct:column;]
+  flex-direction: column;
   justify-content: center;
-  aling-items: center;
+  align-items: center;
   max-width: 1;
+  
 }
