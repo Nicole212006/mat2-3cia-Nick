@@ -19,6 +19,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 1;
-  
+  max-width: 1200px;
+  widht: 100%;
+  margin: 0 auto;
 }
