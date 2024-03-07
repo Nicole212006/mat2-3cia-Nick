@@ -13,3 +13,10 @@ body {
   color: var(--branco);
   font-family: 'Chackra Petch', sans-serif;
 }
+.conteudo-pincipal{
+  display: flex;
+  flex-direct:column;]
+  justify-content: center;
+  aling-items: center;
+  max-width: 1;
+}
