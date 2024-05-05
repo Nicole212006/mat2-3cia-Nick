@@ -83,14 +83,18 @@ body {
   .aba-conteudo-titulo-principal{
     font-size: 28px;
     text-align: center;
-    color
   }
 
+  .aba-conteudo-titulo-secundario{
+    text-align: center;
+    color: var(--verde);
+}
 
  @media screen and (min-width: 768px) {
     .botoes{
         display: flex;
      }
+
      .botao:first-child{
        border-radius: 40px 0 0 0;
      }
