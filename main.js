@@ -18,4 +18,4 @@ for(let i=0;i <botoes.length;i++){
 const contadores = document.querySelectorAll(".contador");
 const tempoObjetivo = new Date("2024-12-29")
 
-contadores[0].textContent = "tempo objetivo";
+contadores[0].textContent = "tempoObjetivo";
