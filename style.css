@@ -71,19 +71,16 @@ body {
         display:block;
   }
   
+  .aba-conteudo{
+     display: none;
+  }
+
    .abas-textos{
     background-color: var(--texto-fundo);
     padding: 40px;
-    border-radius: 0 0 40px 40px
+    border-radius: 0 0 40px 40px}
+   
 
-
-   }
-   .aba-conteudo.ativo{
-       display:block;
-   }
-    .aba-conteudo{
-         display: none;
-    }
   .aba-conteudo-titulo-principal{
     font-size: 28px;
     text-align: center;
